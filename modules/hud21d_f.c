@@ -5,8 +5,8 @@
  *  Author: GroundLayer
  */ 
 
-#include "modules/drivers/hud21d_f.h"
-#include "modules/modules/hud21d_f.h"
+#include "../drivers/hud21d_f.h"
+#include "./hud21d_f.h"
 
 #include "registrar/registrar.h"
 #include "tasks/modules.h"
